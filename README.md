@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GitHub
+- 🔭 I’m currently working on GitHub,Netbeans
 - 🌱 I’m currently learning Java, Web apps and ADBS
 - 👯 I’m looking to collaborate on Google and Microsoft
 - 💬 Ask me about travel
-- 📫 How to reach me: sushmamundlamuri@gmail.com
+- 📫 How to reach me: msushma2023@gmail.com
 - 😄 Pronouns: She/Her
 
